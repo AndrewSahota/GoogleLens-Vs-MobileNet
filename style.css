@@ -1,0 +1,50 @@
+body{
+    background-image: url("background.jpg");
+}
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+ 
+ }
+ 
+ span
+ {
+     color: rgb(250, 56, 56);
+     font-size: 16px;
+ }	
+ li img
+ {
+     width: 200px;
+     border-radius: 20px;
+ }
+ .bob
+ {
+     background: #bdfff4;
+     padding: 30px;
+     border-radius: 20px;
+     width: 50%;
+     display: inline-block;
+     box-shadow: 5px 5px 18px rgb(61, 61, 61);
+ }
+ b
+ {
+     color: rgb(145, 8, 145);
+ }
+ 
+ .bob3
+ {
+     text-align: center;
+     background: #dedddd;
+     border-radius: 20px;
+     padding: 10px;
+ }
+
+ .head_top{
+     color: white;
+ }
